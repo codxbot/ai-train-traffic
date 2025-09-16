@@ -1,10 +1,11 @@
 # ai-train-traffic
 
-# AI Train Traffic Management — Fullstack Project
+AI Train Traffic Management — Fullstack Project
 
+## Quick start
 
-### Quick start
-1. Start backend:
+### 1. Start backend:
+
 ```bash
 cd backend
 npm install
