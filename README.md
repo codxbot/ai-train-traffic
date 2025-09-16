@@ -10,3 +10,7 @@ AI Train Traffic Management — Fullstack Project
 cd backend
 npm install
 npm start
+### 2. Start frontend:
+cd frontend
+npm install
+npm start
