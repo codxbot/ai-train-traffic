@@ -1,0 +1,7 @@
+body { font-family: Arial, Helvetica, sans-serif; margin:0; padding:0; }
+.app header { padding:16px; background:linear-gradient(90deg,#0f172a,#0b3b61); color:white }
+.app header h1 { margin:0 }
+.app main { display:flex; gap:12px; padding:12px }
+.map-container { flex:1; border-radius:8px; overflow:hidden; box-shadow:0 6px 18px rgba(0,0,0,0.08) }
+.panel { width:320px; padding:12px; border-left:1px solid #eee }
+footer { padding:8px 12px; font-size:13px; color:#555 }
